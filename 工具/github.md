@@ -13,5 +13,5 @@
 
 >   github账号：``1341437483@qq.com``  
 >   github密码：whg931004
->   github密钥: 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
+>   github密钥: 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
 
